@@ -28,10 +28,15 @@ The program supports two modes:
 
 Manual Mode: User solves the puzzle manually.
 Automatic Mode: Program solves the puzzle using a backtracking algorithm.
-Specify the number of empty cells (0–81) and the mode (0 for manual, 1 for automatic).```
+Specify the number of empty cells (0–81) and the mode (0 for manual, 1 for automatic).
+```
 
 ## Project Structure
 - `main.c`: Core implementation of the Sudoku solver.
 - `README.md`: Documentation.
+
+## Check how works automatic solving
+
+![gif_sudoku](https://github.com/user-attachments/assets/1be08c00-c6a2-4f87-a90f-348e495eac01)
 
 
