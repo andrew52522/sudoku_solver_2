@@ -37,5 +37,5 @@ Specify the number of empty cells (0–81) and the mode (0 for manual, 1 for aut
 
 ## Check how works automatic solving
 
-[gif_sudoku.webm](https://github.com/user-attachments/assets/a67736a2-56f9-4d87-bae4-99ad59a6e1ab)
+[gif_sudoku.gif](https://github.com/user-attachments/assets/a67736a2-56f9-4d87-bae4-99ad59a6e1ab)
 
