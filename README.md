@@ -40,5 +40,5 @@ Specify the number of empty cells (0–81) and the mode (0 for manual, 1 for aut
 
 ## Check how works automatic solving
 
-[[Download and watch demo.webm](https://github.com/andrew52522/sudoku_solver_2/blob/main/gif_sudoku.webm)](demo.webm)
+![Sudoku Demo](./Code_NQcIKSMa3Y.gif)
 
